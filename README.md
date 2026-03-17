@@ -1,8 +1,6 @@
-# Data Structures Project 2 — Performance Comparison
+# Data Structures — Performance Comparison
 
 A comparative benchmarking study of **four data structures** for managing large integer datasets, measuring **insertion time**, **search time**, and **search depth** across datasets from 20 to 3,000,000 keys.
-
-> Course project — Technical University of Crete
 
 ---
 
@@ -97,6 +95,4 @@ Reads binary datasets (`numbers-{N}.bin`) and outputs three CSV files:
 
 ---
 
-## Built With
 
-- Java (no external dependencies)
